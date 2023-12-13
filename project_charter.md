@@ -18,9 +18,18 @@ Describe what kind of users will visit your app, including the demographics of y
 
 ## Data / API Information
 
+What data do you plan on using in your application? Where will you get this data? What data will you store in your database? What external API will you use?
+
 ## Methodologies
 
 ### Tech Stack
+
+List down the technologies that you will use in your project. Example:
+
+- Python
+- Flask
+- SQLAlchemy
+- and so on
 
 ### Database Schema
 
