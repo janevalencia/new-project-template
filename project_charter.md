@@ -88,6 +88,30 @@ COULD-HAVE
 | ------- | -------------- | ----------- |
 | A       | X hrs          | X hrs       |
 
+### Tasks
+
+Reference to the project board and issues here. Example:
+
+- [Project Board]()
+- [List of Issues]()
+
+**Upon creating a new issue, remember to set the following:**
+
+1. Task title & Task Code (e.g. `T1: Create a new recipe`)
+2. Task description: Describe the requirement of your task and what you need to do to complete the task (bullet points). Refer to this example issue: https://github.com/users/janevalencia/projects/7/views/1?pane=issue&itemId=47415190 
+3. Add feature label your task appropriately (e.g. 'frontend' for frontend / UI related tasks, 'backend' for backend related tasks, 'bug' for bug fixes, and so on)
+4. Add story points label to your task (e.g 'SP_1' for 1 story point, 'SP_2' for 2 story points, and so on)
+5. Assign the task to yourself
+
+
+**Upon setting story points, use this guideline as reference:**
+
+| Story Points | Description                                                                                                                                                                                                              |
+|--------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1            | Very simple / trivial task, you can do it in (max) 1 hour                                                                                                                                                                |
+| 2            | Simple / decent / not too difficult task, you can do it (max) a day                                                                                                                                                      |
+| 3            | Difficult task, you’re not immediately sure of how to solve it, needs some further research, but you know the underlying concept on how to solve it.                                                                     |
+| 5            | Difficult complex task, requires extensive research, a lot of features combined into one ticket. This will not be a story / task, this will be something more of an Epic ticket.  **Needs to be broken into smaller tasks.** |
 
 ## User Flow Diagram
 
