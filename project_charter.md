@@ -16,6 +16,17 @@ Example:
 
 Describe what kind of users will visit your app, including the demographics of your user.
 
+Example:
+
+There'll be two users type:
+- Admin
+  - Admin can create, update, and delete recipes.
+  - Admin can create, update, and delete users.
+- Regular users
+  - Regular users can create, update, and delete their own recipes.
+  - Regular users can view recipes created by other users.
+  - Regular users can save recipes created by other users to their own account.
+
 ## Data / API Information
 
 What data do you plan on using in your application? Where will you get this data? What data will you store in your database? What external API will you use?
