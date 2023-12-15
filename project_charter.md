@@ -149,3 +149,4 @@ Discuss what is out of scope for your project. Example:
 - What is your project limitation?
 - What are the features that you will not implement in this project?
 - Anything that are not explicitly mentioned in the original scope
+- etc 
