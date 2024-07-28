@@ -34,6 +34,7 @@ List the main features of your project. Example:
 - Create a new recipe
 - Share recipe to other users
 - Admin user can delete recipes
+- User can search for recipes
 - and so on ...
 
 ### Project Proposal
